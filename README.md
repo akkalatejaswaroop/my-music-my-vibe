@@ -1,9 +1,9 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3>SoundSculpt</h3>
+  <h3>My Muic My Vibe</h3>
   <div>
-    <a href="https://akkalatejaswaroop.github.io/mymusicmyvibe/">View Demo</a>
+    <a href="https://ats-music-list.netlify.com/">View Demo</a>
   </div>
 </div>
 
