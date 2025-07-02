@@ -58,7 +58,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 ## Link
 ```
-https://thenewc0der-24.github.io/SoundSculpt/
+https://akkalatejaswaroop.github.io/my-music-my-vibe/
 ```
 
 ## Contact
