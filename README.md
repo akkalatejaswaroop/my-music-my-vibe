@@ -3,7 +3,7 @@
 <div align="center">
   <h3>My Muic My Vibe</h3>
   <div>
-    <a href="https://ats-music-list.netlify.app/">View Demo</a>
+    <a href="https://my-vibe-is-different.netlify.app/">View Demo</a>
   </div>
 </div>
 
